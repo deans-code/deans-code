@@ -6,7 +6,7 @@ This account manages my personal projects; my goal for the projects hosted here 
 
 I am interested in all aspects of technology, from retro computing through to the modern day. I aim to reflect my broad interest in the projects I undertake in my free time.
 
-Some technologies I have been exploring:
+## Some technologies I have been exploring...
 
 ### :watch: Wearables
 
