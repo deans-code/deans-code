@@ -19,3 +19,11 @@ A [simple prototype game](https://github.com/deans-code/barrel-and-crank) for th
 ### :crystal_ball: AI
 
 Local LLM working with [custom MCP tools](https://github.com/deans-code/pindex).
+
+### 👓: VR
+
+Exploring development for the Meta Quest using [SteroKit](https://github.com/deans-code/venus).
+
+### :computer: Retro
+
+Exploring development for [AmigaOS](https://github.com/deans-code/mars).
