@@ -20,9 +20,9 @@ A [simple prototype game](https://github.com/deans-code/barrel-and-crank) for th
 
 Local LLM working with [custom MCP tools](https://github.com/deans-code/pindex).
 
-### 👓: VR
+### :eyeglasses: VR
 
-Exploring development for the Meta Quest using [SteroKit](https://github.com/deans-code/venus).
+Exploring development for the Meta Quest using [StereoKit](https://github.com/deans-code/venus).
 
 ### :computer: Retro
 
