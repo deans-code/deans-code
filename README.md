@@ -22,7 +22,7 @@ I am interested in all aspects of technology from retro computing through to the
 
 ### :eyeglasses: VR
 
-[Venus](https://github.com/deans-code/venus) - Exploring development for the Meta Quest using [StereoKit](https://stereokit.net/).
+[Venus](https://github.com/deans-code/venus) - Exploring development for the [Meta Quest](https://www.meta.com/gb/quest/) using [StereoKit](https://stereokit.net/).
 
 ### :computer: Retro
 
