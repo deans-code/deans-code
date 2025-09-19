@@ -13,6 +13,6 @@ I am interested in all aspects of technology from retro computing through to the
 | :watch: Wearables | [Rotation](https://github.com/deans-code/rotation) | Building a watchface for the [Pebble](https://repebble.com/) line of smart watches. |
 | :video_game: Gaming| [Barrel and Crank](https://github.com/deans-code/barrel-and-crank) | Building a simple prototype game for the [Playdate](https://play.date/) handheld console. |
 | :crystal_ball: Artifcial Intelligence | [Pindex](https://github.com/deans-code/pindex) | Building [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) tools, integrating with local language models using [LM Studio](https://lmstudio.ai/). |
-| :eyeglasses: VR | [Venus](https://github.com/deans-code/venus) | Exploring development for the [Meta Quest](https://www.meta.com/gb/quest/) using [StereoKit](https://stereokit.net/). |
+| :eyeglasses: Virtual Reality | [Venus](https://github.com/deans-code/venus) | Exploring development for the [Meta Quest](https://www.meta.com/gb/quest/) using [StereoKit](https://stereokit.net/). |
 | :computer: Retro | [Spark](https://github.com/deans-code/spark) | Building a [Workbench](https://en.wikipedia.org/wiki/Workbench_(AmigaOS)) application for [AmigaOS](https://en.wikipedia.org/wiki/AmigaOS). |
 | :telescope: Machine Learning | [Jupiter](https://github.com/deans-code/jupiter) | Exploring [TensorFlow](https://www.tensorflow.org/) using [Jupyter](https://jupyter.org/). |
