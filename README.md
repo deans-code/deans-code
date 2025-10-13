@@ -2,7 +2,7 @@
 
 I have been developing software professionally for more than 19 years. Most recently I have been employed as a Lead Technical Developer and Solutions Architect, leading development teams in the delivery of software solutions incorporating various .NET based Digital Experience Platforms and Content Management Systems. 
 
-I am interested in all aspects of technology from retro computing through to the AI.
+I am interested in all aspects of technology, from retro computing to AI.
 
 ## Some technologies I have been exploring...
 
