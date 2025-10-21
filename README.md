@@ -8,6 +8,7 @@ I am interested in all aspects of technology, from retro computing to AI.
 
 | Category | Repository | Description |
 |---|---|---|
+| :office: Architecture | [Signal Box](https://github.com/deans-code/signal-box) | Building a family dashboard using [microservice](https://en.wikipedia.org/wiki/Microservices) architecture, [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview), local language models with [LM Studio](https://lmstudio.ai/) and [Mudblazor](https://www.mudblazor.com/).  |
 | :watch: Wearables | [Rotation](https://github.com/deans-code/rotation) | Building a watchface for the [Pebble](https://repebble.com/) line of smart watches. |
 | :video_game: Gaming| [Barrel and Crank](https://github.com/deans-code/barrel-and-crank) | Building a simple prototype game for the [Playdate](https://play.date/) handheld console. |
 | :crystal_ball: Artifcial Intelligence | [Pindex](https://github.com/deans-code/pindex) | Building [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) tools, integrating with local language models using [LM Studio](https://lmstudio.ai/). |
