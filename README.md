@@ -4,7 +4,9 @@ I have been developing software professionally since graduating from University 
 
 I am interested in all aspects of technology, from retro computing to AI.
 
-## Some technologies I have been exploring
+## Highlighted repositories
+
+Some technologies I have been exploring:
 
 | Category | Repository | Description |
 |---|---|---|
