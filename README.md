@@ -17,3 +17,12 @@ Some technologies I have been exploring:
 | :eyeglasses: Virtual Reality | [Tin Can Alley](https://github.com/deans-code/tin-can-alley) | Exploring development for the [Meta Quest](https://www.meta.com/gb/quest/) using [StereoKit](https://stereokit.net/). |
 | :computer: Retro | [Spark](https://github.com/deans-code/spark) | Building a [Workbench](https://en.wikipedia.org/wiki/Workbench_(AmigaOS)) application for [AmigaOS](https://en.wikipedia.org/wiki/AmigaOS). |
 | :crystal_ball: Artifcial Intelligence | [Dimensions](https://github.com/deans-code/dimensions) | Exploring semantic search; generating embeddings with local models using [LM Studio](https://lmstudio.ai/), storing data within a [Qdrant](https://qdrant.tech/) vector database and testing queries against the data. |
+
+## In the works
+
+Some projects I have in the pipeline:
+
+| Category | Repository | Description |
+|---|---|---|
+| :watch: Wearables | [Drive](https://github.com/deans-code/drive) | Using knowledge gained from developing [Rotation](https://github.com/deans-code/rotation), building a watchface designed to provide positive inspiration throughout the day. |
+| :video_game: Gaming| [Starship](https://github.com/deans-code/starship) | Inspired by a recent visit to the [Centre for Computing History](https://www.computinghistory.org.uk/), attempting to reuse and repurpose architecture/engine/logic from [Barrel and Crank](https://github.com/deans-code/barrel-and-crank) to create a space themed score chaser. |
