@@ -20,6 +20,9 @@ Some technologies I have been exploring:
 
 ## In the works
 
+> [!NOTE]
+> These repositories will remain private until the groundwork has been laid and they are in a demonstrable state.
+
 Some projects I have in the pipeline:
 
 | Category | Repository | Description |
