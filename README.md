@@ -12,7 +12,7 @@ I am interested in all aspects of technology, from retro computing to AI.
 | :crystal_ball: Artifcial Intelligence | [Pindex](https://github.com/deans-code/pindex) | Building [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) tools, integrating with local language models using [LM Studio](https://lmstudio.ai/). |
 | :crystal_ball: Artifcial Intelligence | [Dimensions](https://github.com/deans-code/dimensions) | Exploring semantic search; generating embeddings with local models using [LM Studio](https://lmstudio.ai/), storing data within a [Qdrant](https://qdrant.tech/) vector database and testing queries against the data. |
 
-### ...and other technologies I have been exploring, just for fun!
+### ...other technologies I have been exploring, just for fun!
 
 | Category | Repository | Description |
 |---|---|---|
