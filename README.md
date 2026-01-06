@@ -8,6 +8,7 @@ I am interested in all aspects of technology, from retro computing to AI.
 
 | Category | Repository | Description |
 |---|---|---|
+| :crystal_ball: Artifcial Intelligence | [Eval](https://github.com/deans-code/eval) | Building prompt evaluation tools, including [LLM-as-a-judge](https://en.wikipedia.org/wiki/LLM-as-a-Judge) and [sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) graders. Integrating with local language models using [LM Studio](https://lmstudio.ai/). |
 | :office: Architecture | [Signal Box](https://github.com/deans-code/signal-box) | Building a family dashboard using [microservice](https://en.wikipedia.org/wiki/Microservices) architecture, [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview), local language models with [LM Studio](https://lmstudio.ai/) and [Mudblazor](https://www.mudblazor.com/).  |
 | :crystal_ball: Artifcial Intelligence | [Pindex](https://github.com/deans-code/pindex) | Building [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) tools, integrating with local language models using [LM Studio](https://lmstudio.ai/). |
 | :crystal_ball: Artifcial Intelligence | [Dimensions](https://github.com/deans-code/dimensions) | Exploring semantic search; generating embeddings with local models using [LM Studio](https://lmstudio.ai/), storing data within a [Qdrant](https://qdrant.tech/) vector database and testing queries against the data. |
