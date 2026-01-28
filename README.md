@@ -1,6 +1,6 @@
 ## Hi, I'm Dean 👋
 
-I have been developing software professionally since graduating from University in 2006. Most recently I have been employed as a Lead Technical Developer and Solutions Architect, leading development teams in the delivery of web based software solutions. 
+I have been developing software professionally since graduating from university in 2006. Most recently I have been employed as a Lead Technical Developer and Solutions Architect, leading development teams in the delivery of web based software solutions. 
 
 I am interested in all aspects of technology, from retro computing to AI.
 
