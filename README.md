@@ -8,6 +8,7 @@ I am interested in all aspects of technology, from retro computing to AI.
 
 | Category | Repository | Description |
 |---|---|---|
+| :crystal_ball: Artifcial Intelligence | [Anamnesis](https://github.com/deans-code/anamnesis) | Building a simple chat interface to test the capabilities of [MedGemma](https://deepmind.google/models/gemma/medgemma/), am open weight model optimised for medical use cases, running locally on [Ollama](https://ollama.com/). Exploring AI augmented development workflows with [GitHub Copilot](https://github.com/features/copilot), [OpenSpec](https://openspec.dev/), custom instructions, agents, prompts and skills. |
 | :crystal_ball: Artifcial Intelligence | [Editorial](https://github.com/deans-code/editorial) | Building an article planning and authoring tool, with AI research and evaluation features. Integrating with local language models using [LM Studio](https://lmstudio.ai/). |
 | :crystal_ball: Artifcial Intelligence | [Eval](https://github.com/deans-code/eval) | Building prompt evaluation tools, including [LLM-as-a-judge](https://en.wikipedia.org/wiki/LLM-as-a-Judge) and [sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) graders. Integrating with local language models using [LM Studio](https://lmstudio.ai/). |
 | :crystal_ball: Artifcial Intelligence | [Pindex](https://github.com/deans-code/pindex) | Building [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) tools, integrating with local language models using [LM Studio](https://lmstudio.ai/). |
