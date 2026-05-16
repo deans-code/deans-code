@@ -1,6 +1,6 @@
 ## Hi, I'm Dean 👋
 
-I have been developing software professionally since graduating from university in 2006. I have been employed as a Technical Lead and Solutions Architect, leading development teams in the delivery of web based software solutions. Currently working on AI-native, cloud native products with AI-first software enginering process. 
+I have been developing software professionally since graduating from university in 2006. I have been employed as a Technical Lead and Solutions Architect, leading development teams in the delivery of web based software solutions. Currently working on AI-native, cloud native products delivered using an AI-first software enginering process. 
 
 I am interested in all aspects of technology, from retro computing to AI.
 
