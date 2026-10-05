@@ -8,6 +8,7 @@ I am interested in all aspects of technology, from retro computing to AI.
 
 | Category | Repository | Description |
 |---|---|---|
+| :briefcase: Productivity | [Profile](https://github.com/deans-code/profile) | Building a profile builder that lets individual team members create and maintain a profile for themselves. |
 | :crystal_ball: Artificial Intelligence | [Decision](https://github.com/deans-code/decision) | Exploring System One decision models: sending text and structured questions (Choice, Score and Noul) and getting back typed, probability-backed answers. |
 | :office: Architecture | [Guide](https://github.com/deans-code/guide) | A resource for reviewing and understanding modern architectures, patterns, libraries etc. AI generated demonstrations, use case notes, general guidance on adoption. Designed as a personal research tool and also as a resource for agents, to guide decision making. |
 | :office: Architecture | [Signal Box](https://github.com/deans-code/signal-box) | Building a family dashboard using [microservice](https://en.wikipedia.org/wiki/Microservices) architecture, [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview), local language models with [LM Studio](https://lmstudio.ai/) and [Mudblazor](https://www.mudblazor.com/). |
